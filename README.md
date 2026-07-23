@@ -1,36 +1,80 @@
-👋Привет! Я — Игорь Ломакин
+👋 Hi, I'm Igor Lomakin
 
-👀 Интересуюсь аналитикой данных и их практическим применением. 
+Product Analyst | Data Analyst | Business Analytics
 
-🎯 Цель — Аналитик с 17-летним опытом работы в банковской сфере и высокими навыками бизнес-анализа. Активно развиваюсь в области анализа данных: Python, SQL, Power BI, Kaggle. Ищу позицию младшего аналитика данных, где можно применить сочетание классического бизнес-опыта и современных инструментов аналитики данных.
+I help businesses make better decisions through data.
 
+My background combines 20+ years in banking and commercial management with hands-on experience in product analytics, allowing me to connect business goals with data-driven insights.
 
-🛠️Технологии и инструменты
+I enjoy investigating why metrics change, identifying growth opportunities, analyzing user behavior, and turning analytical findings into practical business decisions.
 
-Языки: Python (pandas, numpy, matplotlib, seaborn), SQL.
+🚀 What I Do
+Analyze product and business metrics
+Investigate user behavior and growth opportunities
+Build SQL analyses and BI dashboards
+Develop analytical reports and data marts
+Explore LTV, ROI, retention, conversion, and churn
+Automate reporting and analytical workflows
+Translate business questions into analytical solutions
+🛠 Tech Stack
 
-BI: Power BI**
+Languages
 
-Машинное обучение: Scikit-learn, Jupyter
+SQL
+Python (Pandas, NumPy, Matplotlib)
 
-Базы данных: PostgreSQL, SQLite
+Analytics
 
-Другие инструменты: Excel, Git, DBeaver.
+ClickHouse
+PostgreSQL
+Power BI
+Airflow
+Jupyter Notebook
 
-Инфраструктура: GitHub, Jupyter, PostgreSQL.
+Tools
 
-Бизнес: управление продажами, KPI, фин. аналитика, план-факт анализ, работа с CRM и отчётностью
+Git
+GitHub
+DBeaver
+Excel
+📂 Featured Projects
 
+Here you'll find projects covering:
 
-📈 Учусь и практикуюсь здесь:
+SQL case studies
+Product analytics
+Business analytics
+Dashboard development
+Python data analysis
+Kaggle notebooks
 
-🧠 Степик: [Мой профиль](https://stepik.org/users/241558560/profile?auth=login)
+More projects are added regularly.
 
-💡 Kaggle: соревнования, датасеты и ноутбуки https://www.kaggle.com/igorlomakin 
+📚 Continuous Learning
 
-🧩 LeetCode: развиваю алгоритмическое мышление
+I believe strong analysts never stop learning.
 
+Kaggle competitions
+SQL practice
+Python
+Product analytics
+Statistics & A/B testing
+Machine Learning fundamentals
+🌍 Looking For
 
-📫 Контакты
-Электронная почта: i9879524440@gmail.com
-Телеграмма: @Lomakiniv
+I'm interested in remote opportunities in:
+
+Product Analytics
+Data Analytics
+Growth Analytics
+Revenue Analytics
+FinTech
+SaaS
+AI Products
+📫 Contact
+
+📧 Email: i9879524440@gmail.com
+
+💬 Telegram: @Lomakiniv
+
+🏆 Kaggle: https://www.kaggle.com/igorlomakin
